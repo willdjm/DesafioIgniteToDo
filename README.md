@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img alt="Desafio ToDo Ignite" src="github\preview.png" width="100%">
+  <img alt="Desafio ToDo Ignite" src=".github\preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
